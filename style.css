@@ -1,0 +1,43 @@
+ 
+    
+
+header {text-align: center; 
+        font-size: 25px;
+        background-color: blue;
+        width:fit-content;
+        display:flexbox;
+        
+        
+        
+        
+        }
+p {font-size: 20px;}
+
+#start {font-size: 25px;
+        font-style: oblique;}
+h2 {
+    text-align: center;
+}
+
+h3 {text-align: center;
+    
+    }
+.Q1 {text-align: center;
+    border: 10px solid green;
+    font-size: x-large;
+    padding: 50px;
+    margin: 30px;
+     } 
+ li {list-style-type: none;} 
+ 
+ .A1 {padding: 25px;}
+ .A2 {padding: 25px;}
+ .A3 {padding: 25px;}
+ 
+ .infobox {
+    text-align: center;
+    border: 10px solid green;
+     padding: 25px;
+     margin: 30px;
+     width:fit-content
+ }
